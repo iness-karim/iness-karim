@@ -187,10 +187,10 @@ réalisations:
 
 ```mermaid
 graph LR
-    A[🎓 Baccalauréat<br/>Sciences Mathématiques B<br/>2022] --> B[📚 HEM Engineering School<br/>IA & Big Data<br/>2022 à aujourd'hui]
-    B --> C[🏅 IBM Data Engineering<br/>Professional Certificate]
-    B --> D[🌍 Linguaskill Business English<br/>Cambridge]
-    C --> E[🚀 Stage PFE<br/>février 2027]
+    A["🎓 Baccalauréat<br/>Sciences Mathématiques B<br/>2022"] --> B["📚 HEM Engineering School<br/>IA et Big Data<br/>2022 à aujourd’hui"]
+    B --> C["🏅 IBM Data Engineering<br/>Professional Certificate"]
+    B --> D["🌍 Linguaskill Business English<br/>Cambridge"]
+    C --> E["🚀 Stage PFE<br/>février 2027"]
     D --> E
 
     style A fill:#4F8CFF,stroke:#333,stroke-width:2px,color:#fff
